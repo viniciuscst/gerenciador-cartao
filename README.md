@@ -1,2 +1,2 @@
 # gerenciador-cartao
-Um gerenciador de cartão geito em kotlin
+Um gerenciador de cartão feito em kotlin
